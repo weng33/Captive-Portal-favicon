@@ -1,2 +1,2 @@
-# Captive-Portal-favicon
+# raw.githubusercontent.com
 my favicon
